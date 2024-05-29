@@ -1,0 +1,6 @@
+every project having one file  package.json
+npm init -y
+we run this we have package.json file generate.
+
+2)in script start type nodemon index.js
+3)npm install express
